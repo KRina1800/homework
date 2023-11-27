@@ -1,1 +1,1 @@
-Hello, my dear! That was my first job as production designer
+Hello, Friend! How are you?
