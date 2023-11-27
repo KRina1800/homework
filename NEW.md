@@ -1,0 +1,1 @@
+A programming language is a stylized communication technique intended to be used for controlling the behavior of a machine (often a computer). Like human languages programming languages have syntactic and semantic rules used to define meaning.
